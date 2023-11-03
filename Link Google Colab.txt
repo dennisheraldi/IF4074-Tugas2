@@ -1,0 +1,6 @@
+Link Google Colab Tugas 1 (CNN):
+https://drive.google.com/file/d/1kK8kd4eUtU9qahSIf22dsuBqGwiHGb_W/view?usp=drive_link
+
+Link Google Colab Tugas 2 (RNN):
+https://drive.google.com/file/d/1oXOhgGjjslGdVbhNMalBQDmaJJK9Faji/view?usp=drive_link
+

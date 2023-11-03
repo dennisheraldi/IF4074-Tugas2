@@ -1,0 +1,5 @@
+Tugas dibuat menggunakan Google Colab
+disatukan dalam satu folder drive sebagai 
+repository yang dapat di akses pada link:
+https://drive.google.com/drive/folders/1E0NwuouLnU5tJyR54cKNPmR22lh73oap?usp=drive_link
+
